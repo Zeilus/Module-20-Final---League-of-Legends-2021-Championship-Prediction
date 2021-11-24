@@ -1,0 +1,10 @@
+Team Impact Value Calculation Tree:
+
+How to Calculate player impact value:
+Imp_val = Position(role_value) + KDA(Kill + Assists/Death) + Gold(if >= 12000, 2. if < 12000, 1)
+
+Team Value:
+Add all team values together
+
+Determine winner:
+Higher team value = win
